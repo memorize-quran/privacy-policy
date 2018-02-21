@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+## Welcome to Easy Quran Memorizer Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/memorize-quran/privacy-policy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This privacy policy governs your use of the software application Easy Quran Memorizer (“Application”) for mobile devices that was created by LityQua Works.
+The Application is used in Memorizing Quran.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p>Shoaib Khan built the Easy Quran Memorizer app as a commercial app. This SERVICE is provided by LityQua Works and is intended
+    for use as is.</p>
+<p>This page is used to inform website visitors regarding our policies with the collection, use, and
+    disclosure of Personal Information if anyone decided to use our Service.</p>
+<p>If you choose to use our Service, then you agree to the collection and use of information in
+    relation with this policy. The Personal Information that we collect are used for providing and
+    improving the Service. we will not use or share your information with anyone except as described
+    in this Privacy Policy.</p>
+<p>The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions,
+    which is accessible at Easy Quran Memorizer, unless otherwise defined in this Privacy Policy.</p>
 
-### Markdown
+<p><strong>Information Collection and Use</strong></p>
+<p>For a better experience while using our Service, we may require you to provide us with certain
+    personally identifiable information, including but not limited to External Storage, Phone Call State, Phone Lock State.
+    The information that we request is retained on your device and is not collected by us in any way.</p>
+<p>The app does use third party services that may collect information used to identify you. Please refer to Google privacy policy
+    https://www.google.com/policies/privacy/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p><strong>Log Data</strong></p>
+<p>We want to inform you that whenever you use our Service, in case of an error in the app we collect
+    data and information (through third party products) on your phone called Log Data. This Log Data
+    may include information such as your devices’s Internet Protocol (“IP”) address, device name,
+    operating system version, configuration of the app when utilising our Service, the time and date
+    of your use of the Service, and other statistics.</p>
 
-```markdown
-Syntax highlighted code block
+<p><strong>Cookies</strong></p>
+<p>Cookies are files with small amount of data that is commonly used an anonymous unique identifier.
+    These are sent to your browser from the website that you visit and are stored on your devices’s
+    internal memory.</p>
+<p>This Services does not uses these “cookies”.</p>
 
-# Header 1
-## Header 2
-### Header 3
+<p><strong>Service Providers</strong></p>
+<p>We may employ third-party companies and individuals due to the following reasons:</p>
+<ul>
+    <li>To facilitate our Service;</li>
+    <li>To provide the Service on our behalf;</li>
+    <li>To perform Service-related services; or</li>
+    <li>To assist us in analyzing how our Service is used.</li>
+</ul>
+<p>We want to inform users of this Service that these third parties have access to your Personal
+    Information. The reason is to perform the tasks assigned to them on our behalf. However, they
+    are obligated not to disclose or use the information for any other purpose.</p>
 
-- Bulleted
-- List
+<p><strong>Security</strong></p>
+<p>We value your trust in providing us your Personal Information, thus we are striving to use
+    commercially acceptable means of protecting it. But remember that no method of transmission over
+    the internet, or method of electronic storage is 100% secure and reliable, and We cannot
+    guarantee its absolute security.</p>
 
-1. Numbered
-2. List
+<p><strong>Links to Other Sites</strong></p>
+<p>This Service may contain links to other sites. If you click on a third-party link, you will be
+    directed to that site. Note that these external sites are not operated by us. Therefore, I
+    strongly advise you to review the Privacy Policy of these websites. I have no control over, and
+    assume no responsibility for the content, privacy policies, or practices of any third-party
+    sites or services.</p>
 
-**Bold** and _Italic_ and `Code` text
+<p><strong>Children’s Privacy</strong></p>
+<p>All the information is retained on the device. We don't collect any information on our server.</p>
 
-[Link](url) and ![Image](src)
-```
+<p><strong>Changes to This Privacy Policy</strong></p>
+<p>We may update our Privacy Policy from time to time. Thus, you are advised to review this page
+    periodically for any changes. We will notify you of any changes by posting the new Privacy Policy
+    on this page. These changes are effective immediately, after they are posted on this page.</p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/memorize-quran/privacy-policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p><strong>Contact Us</strong></p>
+<p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact
+    us <b>lityqua.works@gmail.com</b> </p>
+<p>This Privacy Policy page was created at <a href="https://privacypolicytemplate.net"
+                                              target="_blank">privacypolicytemplate.net</a>.</p>
